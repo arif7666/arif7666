@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arif7666
 - 👀 I’m interested in the field of data science, Machine learning, Artificial intelligence
-- 🌱 I’m currently learning math and stats for data science
-- 💞️ I’m looking to collaborate on
+- 🌱 I’m currently learning data science/AI/ML
+- 💞️ I’m looking to collaborate on data science/ML projects
 - 📫 How to reach me 
 
 <!---
